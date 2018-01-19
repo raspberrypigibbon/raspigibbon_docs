@@ -47,8 +47,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Raspberry Pi Gibbon'
-copyright = '2018, RT Corp.'
-author = 'RT Corp.'
+copyright = '2018, RT Corporation'
+author = 'RT Corporation'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -128,7 +128,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'RaspberryPiGibbon.tex', 'Raspberry Pi Gibbon Documentation',
-     'RT Corp.', 'manual'),
+     'RT Corporation', 'manual'),
 ]
 
 
