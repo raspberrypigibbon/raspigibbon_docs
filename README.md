@@ -7,5 +7,5 @@ https://github.com/rt-net/RaspberryPiGibbon/wiki の中身です。
 ```
 cd docs
 pip install -r ../requirements.txt
-sphinx-autobuild . _build/html
+sphinx-autobuild source _build/html
 ```
